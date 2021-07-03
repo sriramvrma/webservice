@@ -1,6 +1,6 @@
 # webservice
 
-#this is a Beta Version and contains some errors in service and Controller Classes and also a bug in pom.xml 
+#this is a Beta Version and contains some errors in service and Controller Classes 
 #there is a completed version and will update it soon........
 
 
