@@ -1,7 +1,10 @@
-# webservice
+# webservice using SpringBoot 
 
-#this is a Beta Version and contains some errors in service and Controller Classes 
-#there is a completed version and will update it soon........
+#this an in Develeopment Demo and contains some errors in service and Controller Classes 
+
+
+#there is a completed version with everything working and will update it soon........
+
 
 
 
